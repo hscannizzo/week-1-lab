@@ -4,8 +4,9 @@ height: 655px;
 width: 405px;
 stroke: #B5462E;
 fill: #E95A3B;
-x: 0px;
-y: 0px;
+position:absolute;
+top: 0px; 
+left:0px;
 }
 .square2{
 height: 249px;
